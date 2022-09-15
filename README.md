@@ -1,4 +1,4 @@
-# Github Help <img src = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width = "200px">
+# Github Help <img src = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width = "200px" id = "logo">
 
 ## Work Flow
 On a daily basis:
@@ -16,4 +16,3 @@ Commands|Description
 ``` git commit -m "your_message" ```| Commits all staged changes to be pushed. 
 ``` git push origin ```| Push the latest commit to the origin (where the git originally came from).
 ``` git pull origin ``` | Pulls all the changes between your version and what is online.
-
