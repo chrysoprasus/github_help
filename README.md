@@ -16,5 +16,7 @@ Commands|Description | Link to Documentation
 ``` git commit -m "your_message" ```| Commits all staged changes to be pushed. |https://git-scm.com/docs/git-commit
 ``` git push origin ```| Push the latest commit to the origin (where the git originally came from).|https://git-scm.com/docs/git-push
 ``` git pull origin ``` | Pulls all the changes between your version and what is online.|https://git-scm.com/docs/git-pull
-``` git stash origin ``` | If you staged/committed your changes before you pulled latest repo, use this command to stash them until you pull.|https://git-scm.com/docs/git-stash
+``` git stash ``` | If you staged/committed your changes before you pulled latest repo, use this command to stash them until you pull.|https://git-scm.com/docs/git-stash
+``` git stash apply``` | Applies your shtaqshed changes to the code you just pulled to make everything upto date so you can push your code.|https://git-scm.com/docs/git-stash
+
 
